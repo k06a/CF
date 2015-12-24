@@ -45,5 +45,7 @@ void main_file(string const& filename)
     int n;
     cin >> n;
     
+    
+    
     cout << n;
 }
