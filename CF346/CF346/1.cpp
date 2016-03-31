@@ -42,10 +42,8 @@ void main_file(string const& filename)
         return;
 #endif
     
-    int n;
-    cin >> n;
+    int n, a, b;
+    cin >> n >> a >> b;
     
-    
-    
-    cout << n;
+    cout << (a + b - 1 + n)%n+1;
 }

@@ -1,4 +1,0 @@
-mv CFTempDir CF$1
-mv CFTemp.xcodeproj CF$1.xcodeproj
-sed -i.bak -E 's/CFTemp|CFTempDir/CF'"$1"'/g' CF$1.xcodeproj/project.pbxproj
-rm CF$1.xcodeproj/project.pbxproj.bak
