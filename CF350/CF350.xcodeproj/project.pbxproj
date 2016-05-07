@@ -68,6 +68,9 @@
 		251EE7F21CDBBDED005A5D56 /* 4e.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 4e.txt; sourceTree = "<group>"; };
 		251EE7F31CDBBDFC005A5D56 /* 4f.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 4f.txt; sourceTree = "<group>"; };
 		251EE7F41CDBC89E005A5D56 /* 5c.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 5c.txt; sourceTree = "<group>"; };
+		251EE7F51CDBF128005A5D56 /* 4g.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 4g.txt; sourceTree = "<group>"; };
+		25470FC21CDE7E9800758DEC /* 5d.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 5d.txt; sourceTree = "<group>"; };
+		2587A5B41CDE6D3A00D8B949 /* 4h.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 4h.txt; sourceTree = "<group>"; };
 		25CD55701C2B02F800893A83 /* CF350-1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CF350-1"; sourceTree = BUILT_PRODUCTS_DIR; };
 		25CD55731C2B02F800893A83 /* 1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1.cpp; sourceTree = "<group>"; };
 		25CD55821C2B031800893A83 /* CF350-2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CF350-2"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -201,6 +204,8 @@
 				251EE7F11CDBBDDC005A5D56 /* 4d.txt */,
 				251EE7F21CDBBDED005A5D56 /* 4e.txt */,
 				251EE7F31CDBBDFC005A5D56 /* 4f.txt */,
+				251EE7F51CDBF128005A5D56 /* 4g.txt */,
+				2587A5B41CDE6D3A00D8B949 /* 4h.txt */,
 			);
 			name = 4;
 			sourceTree = "<group>";
@@ -212,6 +217,7 @@
 				25CD55B71C2BD37400893A83 /* 5a.txt */,
 				25CD55B81C2BD37A00893A83 /* 5b.txt */,
 				251EE7F41CDBC89E005A5D56 /* 5c.txt */,
+				25470FC21CDE7E9800758DEC /* 5d.txt */,
 			);
 			name = 5;
 			sourceTree = "<group>";
